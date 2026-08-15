@@ -26,7 +26,7 @@
   <section class="slide" data-index="0">
     <div class="cover">
       <div class="logo-mark">
-        <img src="logo.png" alt="SoloForte">
+        <img src="logo.png" alt="SoloForte" onerror="this.remove()">
         S
       </div>
       <h1 class="brand">SoloForte</h1>
@@ -82,7 +82,12 @@
 
         <div class="phone-frame">
           <div class="phone-screen">
-            <img src="slide-03-mapa.png" alt="Tela do mapa inteligente">
+            <div class="placeholder">
+              <strong>Mapa Inteligente</strong>
+              <p>Adicione a screenshot:</p>
+              <code>images/slide-03-mapa.png</code>
+            </div>
+            <img src="slide-03-mapa1.png" alt="Tela do mapa inteligente" onerror="this.remove()">
           </div>
         </div>
       </div>
@@ -112,7 +117,12 @@
 
         <div class="phone-frame">
           <div class="phone-screen">
-            <img src="slide-04-agenda.png" alt="Tela da agenda comercial">
+            <div class="placeholder">
+              <strong>Agenda Comercial</strong>
+              <p>Adicione a screenshot:</p>
+              <code>images/slide-04-agenda.png</code>
+            </div>
+            <img src="slide-04-agenda.png" alt="Tela da agenda comercial" onerror="this.remove()">
           </div>
         </div>
       </div>
@@ -143,7 +153,12 @@
 
         <div class="phone-frame">
           <div class="phone-screen">
-            <img src="slide-05-carteira.png" alt="Tela da carteira de mercado">
+            <div class="placeholder">
+              <strong>Carteira de Mercado</strong>
+              <p>Adicione a screenshot:</p>
+              <code>images/slide-05-carteira.png</code>
+            </div>
+            <img src="slide-05-carteira.png" alt="Tela da carteira de mercado" onerror="this.remove()">
           </div>
         </div>
       </div>
@@ -174,7 +189,12 @@
 
         <div class="phone-frame">
           <div class="phone-screen">
-            <img src="slide-06-ocorrencias.png" alt="Tela de ocorrências de campo">
+            <div class="placeholder">
+              <strong>Ocorrências de Campo</strong>
+              <p>Adicione a screenshot:</p>
+              <code>images/slide-06-ocorrencias.png</code>
+            </div>
+            <img src="slide-06-ocorrencias.png" alt="Tela de ocorrências de campo" onerror="this.remove()">
           </div>
         </div>
       </div>
@@ -205,7 +225,12 @@
 
         <div class="phone-frame">
           <div class="phone-screen">
-            <img src="slide-07-clima.png" alt="Tela de inteligência climática">
+            <div class="placeholder">
+              <strong>Inteligência Climática</strong>
+              <p>Adicione a screenshot:</p>
+              <code>images/slide-07-clima.png</code>
+            </div>
+            <img src="slide-07-clima.png" alt="Tela de inteligência climática" onerror="this.remove()">
           </div>
         </div>
       </div>
@@ -235,7 +260,12 @@
 
         <div class="phone-frame">
           <div class="phone-screen">
-            <img src="slide-08-avaliacoes.png" alt="Tela de avaliações A/B">
+            <div class="placeholder">
+              <strong>Avaliações A/B</strong>
+              <p>Adicione a screenshot:</p>
+              <code>images/slide-08-avaliacoes.png</code>
+            </div>
+            <img src="slide-08-avaliacoes.png" alt="Tela de avaliações A/B" onerror="this.remove()">
           </div>
         </div>
       </div>
@@ -265,7 +295,12 @@
 
         <div class="phone-frame">
           <div class="phone-screen">
-            <img src="slide-09-roi.png" alt="Tela de ROI agrícola">
+            <div class="placeholder">
+              <strong>ROI Agrícola</strong>
+              <p>Adicione a screenshot:</p>
+              <code>images/slide-09-roi.png</code>
+            </div>
+            <img src="slide-09-roi.png" alt="Tela de ROI agrícola" onerror="this.remove()">
           </div>
         </div>
       </div>
@@ -295,7 +330,12 @@
 
         <div class="phone-frame">
           <div class="phone-screen">
-            <img src="slide-10-publicacao.png" alt="Tela de publicação de resultados">
+            <div class="placeholder">
+              <strong>Publicação de Resultados</strong>
+              <p>Adicione a screenshot:</p>
+              <code>images/slide-10-publicacao.png</code>
+            </div>
+            <img src="slide-10-publicacao.png" alt="Tela de publicação de resultados" onerror="this.remove()">
           </div>
         </div>
       </div>
@@ -334,7 +374,12 @@
 
         <div class="phone-frame">
           <div class="phone-screen">
-            <img src="slide-11-marketing.png" alt="Tela de marketing técnico">
+            <div class="placeholder">
+              <strong>Marketing Técnico</strong>
+              <p>Adicione a screenshot:</p>
+              <code>images/slide-11-marketing.png</code>
+            </div>
+            <img src="slide-11-marketing.png" alt="Tela de marketing técnico" onerror="this.remove()">
           </div>
         </div>
       </div>
@@ -364,7 +409,12 @@
 
         <div class="phone-frame">
           <div class="phone-screen">
-            <img src="slide-12-relatorios.png" alt="Tela de relatórios técnicos">
+            <div class="placeholder">
+              <strong>Relatórios Técnicos</strong>
+              <p>Adicione a screenshot:</p>
+              <code>images/slide-12-relatorios.png</code>
+            </div>
+            <img src="slide-12-relatorios.png" alt="Tela de relatórios técnicos" onerror="this.remove()">
           </div>
         </div>
       </div>
@@ -440,7 +490,12 @@
 
         <div class="phone-frame">
           <div class="phone-screen">
-            <img src="slide-15-modelo.png" alt="Tela do modelo de negócio">
+            <div class="placeholder">
+              <strong>Modelo de Negócio</strong>
+              <p>Adicione a screenshot:</p>
+              <code>images/slide-15-modelo.png</code>
+            </div>
+            <img src="slide-15-modelo.png" alt="Tela do modelo de negócio" onerror="this.remove()">
           </div>
         </div>
       </div>
@@ -451,7 +506,7 @@
   <section class="slide" data-index="15">
     <div class="cover">
       <div class="logo-mark">
-        <img src="logo.png" alt="SoloForte">
+        <img src="logo.png" alt="SoloForte" onerror="this.remove()">
         S
       </div>
       <h1 class="brand">SoloForte</h1>
@@ -469,7 +524,7 @@
 
       <div class="contact-grid">
         <div class="founder-photo">
-          <img src="founder.jpg" alt="Raudinei Afonso">
+          <img src="founder.jpg" alt="Raudinei Afonso" onerror="this.remove()">
           <span>Foto<br>founder.jpg</span>
         </div>
         <div class="contact-info">
